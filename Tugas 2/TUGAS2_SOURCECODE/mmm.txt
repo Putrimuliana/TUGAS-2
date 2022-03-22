@@ -1,0 +1,13 @@
+Variable a dan b menyimpan nilai 5 dan 6 bertipe data  integer yang merupakan tipe data yang berbentu bilangan bulat. 
+
+	Variable k menyimpan nilai 3.14 dan bertipe data double yang merupakan tipe data pecahan yang menmempunyai 8 bytes dan 64 bits dengan keakuratan 15 digit. 
+
+Variable n, m, dan l menyimpan nilai “67”, “45”, dan “100” bertipe data String yang menampung kumpulan karakter seperti kata dan kalimat dan ditulis diantar tanda kutip dua.
+
+Nilai variable a adalah nilai yang disimpan variable n yang akan diubah  dari tipe data string ke integer.
+
+Mencetak dan menampilkan nilai variable k menggunakan tipe data integer, sebelumnya variable k memiliki tipe data double.
+
+Akan mencetak dan menampilkan statement “n : “, “m”, dan “l”  yang akan menampilkan nilai dari variable n, m, dan l setelah diubah, \n untuk new line. 
+
+Float merupakan tipe data untuk menyatakan pecahan, tipe data float mempunyai 4 bytes dan 32 bit de keakuratan ng 6-7 digit. Float f jadi f merupakan variable disini bertipe data float dengan nilai 200f.
